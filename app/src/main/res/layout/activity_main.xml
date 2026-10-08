@@ -48,7 +48,9 @@
             android:layout_weight="1"
             android:layout_marginEnd="8dp"
             android:text="Log In"
-            android:textAllCaps="false" />
+            android:textAllCaps="false"
+            android:backgroundTint="#000000"
+            android:textColor="#FFFFFF"/>
 
         <Button
             android:id="@+id/cancelButton"
@@ -57,7 +59,9 @@
             android:layout_weight="1"
             android:layout_marginStart="8dp"
             android:text="Cancel"
-            android:textAllCaps="false" />
+            android:textAllCaps="false"
+            android:backgroundTint="#000000"
+            android:textColor="#FFFFFF"/>
 
     </LinearLayout>
 
